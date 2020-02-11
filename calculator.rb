@@ -1,4 +1,5 @@
 first_number = 9
 second_number = 8
-sum
+sum = first_number + second_number
+
 
